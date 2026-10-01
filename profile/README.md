@@ -1,6 +1,13 @@
 # 💫 About Me:
 Official Maintainer for Asteroids (@The-Clover-Project)<br>Enjoy making AOSP roms<br>
 
+I am currently a member of 
+- [@The-Clover-Project](https://github.com)
+
+- [@PixelOS-Asteroids](https://github.com/pixelos-asteroids/)
+
+- [@CloverProject-Asteroids](https://github.com/TheCloverProject-Asteroids/)
+
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nayanjinal23@gmail.com) 
