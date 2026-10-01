@@ -2,7 +2,7 @@
 Official Maintainer for Asteroids (@The-Clover-Project)<br>Enjoy making AOSP roms<br>
 
 I am currently a member of 
-- [@The-Clover-Project](https://github.com)
+- [@The-Clover-Project](https://github.com/The-Clover-Project)
 
 - [@PixelOS-Asteroids](https://github.com/pixelos-asteroids/)
 
